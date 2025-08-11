@@ -1,1 +1,2 @@
-public static void maim
+public static void main ;
+
