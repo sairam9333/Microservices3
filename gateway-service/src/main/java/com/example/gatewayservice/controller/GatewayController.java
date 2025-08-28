@@ -1,4 +1,4 @@
-package com.example.gatewayservice.controller;
+package com.example.gatewayservice.controller
 
 import com.example.gatewayservice.model.Match;
 import com.example.gatewayservice.model.Score;
